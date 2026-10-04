@@ -1,4 +1,6 @@
-# DigiSeal - Fake Product Identification System Using Blockchain
+# DigiSeal - Fake Product Identification System Using Blockchain  
+
+📄 **Published:** [Identification of fraudulent products using blockchain technology](https://doi.org/10.30574/gjeta.2025.24.1.0222), Global Journal of Engineering and Technology Advances, 2025.
 
 ![DigiSeal Logo](https://img.shields.io/badge/DigiSeal-Blockchain--Based-blue?style=for-the-badge&logo=ethereum)
 
