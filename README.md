@@ -86,7 +86,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/TobieTom/DigiSeal.git
+  git clone https://github.com/UdehMercylina/DigiSeal.git
    cd DigiSeal
    ```
 
@@ -433,7 +433,7 @@ We welcome contributions to DigiSeal! Please follow these steps:
 
 1. **Fork the Repository**
    ```bash
-   git fork https://github.com/TobieTom/DigiSeal.git
+  git clone https://github.com/UdehMercylina/DigiSeal.git
    ```
 
 2. **Create Feature Branch**
